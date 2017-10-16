@@ -1,2 +1,2 @@
 # HelloWorld
-Just learn create a new repository
+Just learn how to create a new repository
